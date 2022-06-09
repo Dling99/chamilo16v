@@ -4,7 +4,7 @@
             <div class="wrap-login width-login">
                 <form class="login100-form validate-form" action="{{ _p.web }}" method="post">
                     <div class="logo">
-                        <img width="250px" class="img-responsive" title="{{ _s.site_name }}" src="{{ _p.web_css_theme }}images/header-logo.svg">
+                        <img width="250px" class="img-responsive" title="{{ _s.site_name }}" src="{{ _p.web_css_theme }}images/senavex600.png">
                     </div>
                     <h3 class="title">{{ 'Login'|get_lang() }}</h3>
                     {{ mgs_flash }}
